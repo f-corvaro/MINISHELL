@@ -1,10 +1,6 @@
-<h1 align="center">MINISHELL</h1>
-
-<p align="center">
-  <a href="https://github.com/f-corvaro/MINISHELL">
-	<img src="https://github.com/f-corvaro/MINISHELL/blob/main/.extra/MINISHELL.png" alt="MINISHELL">
-  </a>
-</p>
+<h1 align="center"><a href="https://github.com/f-corvaro/MINISHELL">
+	<img src="https://github.com/f-corvaro/MINISHELL/blob/main/.extra/minishell.png" alt="MINISHELL">
+  </a></h1>
 
 <p align="center">
 	<b><i>"Explore the intricacies of shell programming with Minishell, a simplified shell implementation."</i></b><br>
@@ -25,7 +21,7 @@
 - [Background Knowledge](#background-knowledge)
 - [Tester](#tester)
 - [Evaluation](#evaluation)
-	- [Correction sheet](#correction-sheet)
+  - [Correction sheet](#correction-sheet)
 - [Support Me](#support-me)
 - [Skills developed](#skills-developed)
 - [Sources](#sources)
