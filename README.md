@@ -6,7 +6,6 @@
 	<b><i>"Explore the intricacies of shell programming with Minishell, a simplified shell implementation."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/MINISHELL/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-MINISHELL-yellow" /></a>
     <a href="https://github.com/f-corvaro/MINISHELL"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/MINISHELL?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/MINISHELL"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/MINISHELL?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/MINISHELL"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/MINISHELL?color=blueviolet" /></a>
@@ -30,8 +29,6 @@
  <a href="#theoretical-background">Theoretical Background</a><br>
  <a href="#shell">Shell</a><br>
  <a href="#testing-tools-for-the-minishell-project">Testing Tools for the minishell Project</a><br>
- <a href="#evaluation-process">Evaluation Process</a><br>
- <a href="#correction-sheet">Correction sheet</a><br>
  <a href="#developed-skills">Developed Skills</a><br>
  <a href="#acknowledgments">Acknowledgments</a><br>
  <a href="#support">Support</a><br>
@@ -351,16 +348,6 @@ Minishell is a simplified shell implementation that aims to provide students wit
 **Warning:** To ensure accurate results with the tester, please remember to comment out the `printf("%s", INTRO_MSG);` instruction in the `main.c` file.
 
 </p>
-
-## Evaluation Process
-
-### Correction sheet
-
-<p align="center">
-<a href="https://github.com/f-corvaro/MINISHELL/tree/main"><img width="650" src="https://github.com/f-corvaro/MINISHELL/blob/main/.extra/minishell_cs.jpg">
-
-</p>
-<br>
 
 ## Developed Skills
 
